@@ -2,6 +2,7 @@ This is a tutorial.
 
 Hello World!
 ~~~~
+Printing "Hello world!" is as easy as 5, 7, 5. In order to print, your first line has to contain the keyword "print" at some capacity. On the next line, the string that you want to print must be set in quotation marks ("") or inverted commas (''). Here's an example:
 .. code-block::
 
   print the following,
