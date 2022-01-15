@@ -1,5 +1,7 @@
 This is a tutorial.
 
+Printing
+====
 Hello World!
 ~~~~
 Printing "Hello world!" is as easy as 5, 7, 5. In order to print, your first line has to contain the keyword "print" at some capacity. On the next line, the string that you want to print must be set in quotation marks ("") or inverted commas (''). Here's an example:
@@ -15,3 +17,4 @@ In this case "Print the following" is excellent for coherency, as it's the corre
 
 Variables
 ~~~~
+Defining variables is simple. The first line of the command should contain "variable" or "var".
