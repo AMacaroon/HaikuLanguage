@@ -1,4 +1,4 @@
-This is the Haiku Programming Language (Working Title)
+This is the Kireji Programming Language (Kirejilang)
 =====================================================
 
 This programming language is based around Haikus (A type of Japanese poetry, that run in three lines of five syllables, seven syllables, and five again respectively.)
