@@ -6,7 +6,14 @@ This programming language is based around Haikus (A type of Japanese poetry, tha
 ChangeLog
 ~~~~~~~~
 
-15/01/2022
+**16/01/2022**
+
+Enabled number and expression functionality (for two numbers) for variables and printing. Renamed docs to kirejilanguagage from haikulanguage.
+
+**15/01/2022**
+
 Finished variables and printing them, started doing the docs
-14/01/2022
+
+**14/01/2022**
+
 Began making the language, figured out print commands, started doing variables.
