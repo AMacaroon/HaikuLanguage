@@ -1,7 +1,14 @@
 This is the Kireji Programming Language (Kirejilang)
 =====================================================
 
-This programming language is based around Haikus (A type of Japanese poetry, that run in three lines of five syllables, seven syllables, and five again respectively.)
+Kireji is a "concept" esoteric programming language wherein every command is a  Haiku. As you may already know, a haiku is a type of Japanese poetry, that run in three lines of five syllables, seven syllables, and five again respectively.
+
+.. code-block:: language
+
+  this is a haiku
+  five syllables, then seven,
+  then there's five again
+
 
 ChangeLog
 ~~~~~~~~
