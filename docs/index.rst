@@ -15,7 +15,7 @@ ChangeLog
 
 **20/01/2022**
 
-Made inputs work and save as variables using "input" keyword. Made concatenations work for print commands. I plan to do it for variables and have a concatenate commands soonish.
+Made inputs work and save as variables using "input" keyword. Made concatenations work for print commands. I plan to do it for variables and have a concatenate commands soonish. Also TODO: if statements.
 
 **16/01/2022**
 
