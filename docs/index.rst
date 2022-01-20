@@ -13,6 +13,10 @@ Kireji is a "concept" esoteric programming language wherein every command is a  
 ChangeLog
 ~~~~~~~~
 
+**20/01/2022**
+
+Made inputs work and save as variables using "input" keyword.
+
 **16/01/2022**
 
 Enabled number and expression functionality (for two numbers) for variables and printing. Renamed docs to kirejilanguagage from haikulanguage.
